@@ -1,4 +1,4 @@
-# loop_squared_numbers
+# loop squared numbers
 <img width="1186" alt="python_loop_square" src="https://user-images.githubusercontent.com/70026185/96680841-2c919200-136e-11eb-96ff-8b081005780c.png">
 
 Prints numbers between 1 & 100. The numbers will be printed alongside their squared value.
